@@ -1,0 +1,27 @@
+{
+  "name": "neha-currency-converter",
+  "version": "1.0.0",
+  "description": "npm package to convert currency",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm run neha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neyha06/neha-currency-converter.git"
+  },
+  "keywords": [
+    "npm",
+    "currency-converter"
+  ],
+  "author": "Neha Kadam",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/neyha06/neha-currency-converter/issues"
+  },
+  "homepage": "https://github.com/neyha06/neha-currency-converter#readme",
+  "dependencies": {
+    "@everapi/freecurrencyapi-js": "^1.0.1"
+  }
+}
